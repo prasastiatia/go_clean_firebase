@@ -5,3 +5,7 @@
 3. Install docker desktop and running that, after that Type command "docker compose up"
 4. API running in port 8080
 5. Documentation API : https://documenter.getpostman.com/view/18155206/2s8YzMXQmr
+
+FOR CLONE PROJECT
+1. Make folder "remake_crud golang"
+2. Open that folder on CMD and git clone this project to that folder

@@ -1,0 +1,13 @@
+version: '1'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: remake_crud
+    container_name: remake_crud_golang
+    env_file: .env
+    ports:
+      - 8080:8080
+    
